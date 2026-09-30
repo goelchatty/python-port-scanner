@@ -1,4 +1,4 @@
-import socket #python netwroking library 
+import socket #python networking library 
 
 ip = input("Enter the IP address: ")
 
